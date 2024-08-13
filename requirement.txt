@@ -2,3 +2,5 @@ assemblyai
 gradio
 translate
 elevenlabs
+uuid
+pathlab
