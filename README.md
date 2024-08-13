@@ -14,7 +14,7 @@ This project is a translation tool that integrates Assembly AI and Eleven Labs A
    cd Translator
 
 ## To Install All Required Module
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 ## To Set up API keys
 Add them to "api_key.py" file
